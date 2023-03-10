@@ -1,6 +1,6 @@
 # Hi! I'm Fernando 👨‍💻
 
-## 💼 Currently Frontend and UI/UX Developer @ Softtek EMEA
+## 💼 Currently Senior Frontend Developer @ Chubb EMEA
 
 ## ✨ Expert in:
 
