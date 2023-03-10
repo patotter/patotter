@@ -4,9 +4,13 @@
 
 ## ✨ Expert in:
 
+- Component Libraries
+- Design Systems Development
+- Styles architecture for multi-repo/multi-fronts
+- Cross-browser CSS
+- Animations
+- Interactions and micro-interactions
 - UI/UX
-- Cross-browser compatibility
-- Styles
 - Accessibility
 
 ## 💘 In love with:
@@ -15,4 +19,4 @@
 - Scalability
 - Sustainability
 
-## 📧 Reach me @ pato.kuack@gmail.com
+## 📧 Reach me @ frd.portfolio@gmail.com
