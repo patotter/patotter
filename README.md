@@ -1,6 +1,8 @@
 # Hi! I'm Fernando 👨‍💻
 
-## 💼 Currently Senior Frontend Developer @ Chubb EMEA
+## Web UI/UX and Accessibility Engineer | Developer | Platform Lover
+
+### 💼 Currently @ Chubb EMEA
 
 ## ℹ️ About:
 
